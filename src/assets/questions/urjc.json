@@ -1,0 +1,302 @@
+[
+  {
+    "number": 1,
+    "question": "¿Cuantos aularios llegó a tener la URJC?",
+    "answer": 4,
+    "": ""
+  },
+  {
+    "number": 2,
+    "question": "A parte de Virtual Soul, ¿a qué otra asociación se apuntó Mariano?",
+    "answer": "Anacrusa",
+    "": ""
+  },
+  {
+    "number": 3,
+    "question": "¿Qué famoso personaje de videojuegos se encuentra frente al aulario 1?",
+    "answer": "Ninguno, el pacman está en el 3",
+    "": ""
+  },
+  {
+    "number": 4,
+    "question": "¿Cómo se llama el efecto visual que ocurre cuando los huesos de un modelo 3D se rotan demasiado?",
+    "answer": "Candy-wrapper effect",
+    "": ""
+  },
+  {
+    "number": 5,
+    "question": "¿Qué ponente repitió su presentación muchas, muchas veces en la GameGen?",
+    "answer": "Arturo Monedero",
+    "": ""
+  },
+  {
+    "number": 6,
+    "question": "¿Qué mochila utilizaba Javier Garzás en clase?",
+    "answer": "El escudo del Capitán América",
+    "": ""
+  },
+  {
+    "number": 7,
+    "question": "¿Qué animal aparece en la cinemática de The Last of Us según el profesorado?",
+    "answer": "Cebra",
+    "": ""
+  },
+  {
+    "number": 8,
+    "question": "¿Como accedió el rector a la votación de la eliminación de varias carreras?",
+    "answer": "Por las alcantarillas secretas",
+    "": ""
+  },
+  {
+    "number": 9,
+    "question": "¿Que profesor estuvo saliendo con Valeria Castro?",
+    "answer": "Jesus de EM",
+    "": ""
+  },
+  {
+    "number": 10,
+    "question": "¿Qué objeto ayudó a Mariano mientras estudiaba para sacarse la carrera?",
+    "answer": "La cachimba",
+    "": ""
+  },
+  {
+    "number": 11,
+    "question": "¿Cómo se llama el uso de tarjetas gráficas para cómputo general?",
+    "answer": "GPGPU",
+    "": ""
+  },
+  {
+    "number": 12,
+    "question": "¿Cuánto valía el puto menú de la cafetería en 2018?",
+    "answer": "5 euros aprox",
+    "": ""
+  },
+  {
+    "number": 13,
+    "question": "¿Cómo se denomina a la generación en tiempo de ejecución?",
+    "answer": "Procedimental(procedural no vale)",
+    "": ""
+  },
+  {
+    "number": 14,
+    "question": "¿Con qué emoción de Inside Out, se relacionaba a cierta profesora de ED?",
+    "answer": "Tristeza",
+    "": ""
+  },
+  {
+    "number": 15,
+    "question": "¿En qué asignatura sacó Mariano matrícula de honor?",
+    "answer": "Animación 3D",
+    "": ""
+  },
+  {
+    "number": 16,
+    "question": "¿Quién fue presi de Virtual Soul en segundo de carrera?",
+    "answer": "La bollo",
+    "": ""
+  },
+  {
+    "number": 17,
+    "question": "¿Qué asignatura dio Roman Efremov en el SIMPLE?",
+    "answer": "Matemática discreta y álgebra",
+    "": ""
+  },
+  {
+    "number": 18,
+    "question": "¿Qué API usamos para programar Compute Shaders?",
+    "answer": "CUDA.",
+    "": ""
+  },
+  {
+    "number": 19,
+    "question": "¿Qué bebida gratuita dispensaba la máquina del Laboratorio II?",
+    "answer": "Chocolate",
+    "": ""
+  },
+  {
+    "number": 20,
+    "question": "¿De qué asignatura era el complicado examen que se canceló debido al confinamiento?",
+    "answer": "Introducción a los métodos matemáticos y numéricos (mates italianas)",
+    "": ""
+  },
+  {
+    "number": 21,
+    "question": "¿Qué bebía compulsivamente Marcos el profesor de IG?",
+    "answer": "Coca-Cola (Zero)",
+    "": ""
+  },
+  {
+    "number": 22,
+    "question": "¿Qué forma geométrica asociamos a un querido y anciano profesor?",
+    "answer": "Cuadrado",
+    "": ""
+  },
+  {
+    "number": 23,
+    "question": "¿Cómo se llama la gata del profesor Carlos Garre?",
+    "answer": "Maricarmen",
+    "": ""
+  },
+  {
+    "number": 24,
+    "question": "¿Qué característica prenda suele llevar el querido profesor David Concha?",
+    "answer": "Cartucheras",
+    "": ""
+  },
+  {
+    "number": 25,
+    "question": "¿Qué animal mitológico fruto de la demencia juvenil atravesaba el rectorado con su miembro viril en varios dibujos?",
+    "answer": "Macro Falco",
+    "": ""
+  },
+  {
+    "number": 26,
+    "question": "¿Qué tiene tatuado la querida profesora Gema?",
+    "answer": "Gema\" en chino",
+    "": ""
+  },
+  {
+    "number": 27,
+    "question": "¿Cómo se llama el profesor qué hacía descansos a mitad de clase y ponía cantos gregorianos?",
+    "answer": "Óscar David Robles",
+    "": ""
+  },
+  {
+    "number": 28,
+    "question": "¿De quién es la primera nota de corte del doble de la generación del 2017 del Doble Grado en IC y DDV?",
+    "answer": "Juanjo",
+    "": ""
+  },
+  {
+    "number": 29,
+    "question": "¿Quién se levantó a quejarse de que Cuadrado se pasaba de hora durante las clases y no fue seguido por nadie?",
+    "answer": "Mulas",
+    "": ""
+  },
+  {
+    "number": 30,
+    "question": "¿Qué canción se toca al acabar la graduación?",
+    "answer": "OST de Mario Bros",
+    "": ""
+  },
+  {
+    "number": 31,
+    "question": "¿Por qué estuvo de baja Sonia, la profesora de Estadística?",
+    "answer": "Se le cayó un puente de la boca (también vale Se le cayó un puente en la boca)",
+    "": ""
+  },
+  {
+    "number": 32,
+    "question": "¿Cómo se llama el mago en instagram?",
+    "answer": "alejandro_ciberox1",
+    "": ""
+  },
+  {
+    "number": 33,
+    "question": "¿Quiénes componen el tridente?",
+    "answer": "Mulas, David, Manu",
+    "": ""
+  },
+  {
+    "number": 34,
+    "question": "Loro.",
+    "answer": "Gael.",
+    "": ""
+  },
+  {
+    "number": 35,
+    "question": "¿Cuántos créditos son necesarios para terminar el DG de DDV + IC?",
+    "answer": 303,
+    "": ""
+  },
+  {
+    "number": 36,
+    "question": "¿Cuántas personas había realmente en el doble grado?",
+    "answer": 24,
+    "": ""
+  },
+  {
+    "number": 37,
+    "question": "¿Quién fue el único que encendió la webcam en el examen de Sistemas Operativos durante la pandemia?",
+    "answer": "Manu",
+    "": ""
+  },
+  {
+    "number": 38,
+    "question": "¿Cómo se llama la famosa exposición del profesor de 3D, David Ortega?",
+    "answer": "Elásticos",
+    "": ""
+  },
+  {
+    "number": 39,
+    "question": "¿Qué se ofrecía en el Doble a cambio de favores?",
+    "answer": "Turbobuyacas",
+    "": ""
+  },
+  {
+    "number": 40,
+    "question": "¿Qué fase del cauce gráfico asigna valores visuales al framebuffer como un conjunto de píxeles?",
+    "answer": "Rasterizado",
+    "": ""
+  },
+  {
+    "number": 41,
+    "question": "¿Qué algoritmo de pathfinding asegura el camino mínimo de un grafo?",
+    "answer": "Dijkstra",
+    "": ""
+  },
+  {
+    "number": 42,
+    "question": "¿Qué videojuego de 1982 de carreras sirvió como base para un proyecto de Entornos Multijugador?",
+    "answer": "Pole Position",
+    "": ""
+  },
+  {
+    "number": 43,
+    "question": "¿Qué trastorno ocular compartían Julio, Patxi y en menor medida, Marcos?",
+    "answer": "Estrabismo",
+    "": ""
+  },
+  {
+    "number": 44,
+    "question": "¿Qué primer motor de videojuegos fue introducido en la carrera en 2018?",
+    "answer": "Game Maker",
+    "": ""
+  },
+  {
+    "number": 45,
+    "question": "¿Sobre qué abstracción de software se ejecutan lenguajes como Java de cara a la portabilidad?",
+    "answer": "Máquina virtual",
+    "": ""
+  },
+  {
+    "number": 46,
+    "question": "¿Qué ruinosa asignatura de 3 créditos cambia de temario cada año e impartió Gema en 2019?",
+    "answer": "Multimedia",
+    "": ""
+  },
+  {
+    "number": 47,
+    "question": "¿Qué artificio crearon para Sistemas Empotrados el team Pisiko durante la cuarentena?",
+    "answer": "Un coche(con hilo de pescar)",
+    "": ""
+  },
+  {
+    "number": 48,
+    "question": "¿Quién fue detenido por seguridad por presunto terrorista en Halloween?",
+    "answer": "Gonzalo",
+    "": ""
+  },
+  {
+    "number": 49,
+    "question": "¿Qué profesor modeló publicamente autofelaciones en medios digitales?",
+    "answer": "David",
+    "": ""
+  },
+  {
+    "number": 50,
+    "question": "¿Qué Desarrolladora de Videojuegos tuvo el top de viewers durante la GameGen de 2021?",
+    "answer": "Valeria Castro",
+    "": ""
+  }
+]
