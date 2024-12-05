@@ -1,6 +1,6 @@
-function Header({className}) {
+function Header() {
     return (
-        <p className='mt-3 mb-0' style={{fontSize: '3rem', fontFamily: 'Comic Sans MS'}}>Marivial</p>
+        <img src="./src/assets/header.png"/>
     )
 }
 
