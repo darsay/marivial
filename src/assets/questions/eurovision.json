@@ -1,302 +1,252 @@
 [
-    {
-      "number": 1,
-      "question": "¿Que costumbre extraña tiene Mariano cuando va a hacer de vientre?",
-      "answer": "Abrir el grifo",
-      "": ""
-    },
-    {
-      "number": 2,
-      "question": "¿Qué sabor de Monster es el favorito de Mariano?",
-      "answer": "Mango Loco",
-      "": ""
-    },
-    {
-      "number": 3,
-      "question": "¿Qué enfermedad respiratoria ha tenido Mariano desde la infancia?",
-      "answer": "Asma",
-      "": ""
-    },
-    {
-      "number": 4,
-      "question": "¿En qué puesto de mejor alumno de CLM quedó Mariano?",
-      "answer": "El sexto",
-      "": ""
-    },
-    {
-      "number": 5,
-      "question": "¿Cuántos novios tiene Mariano?",
-      "answer": 1,
-      "": ""
-    },
-    {
-      "number": 6,
-      "question": "¿Quién besó muy heterosexualmente a Mariano EN VIDEO?",
-      "answer": "Nacho",
-      "": ""
-    },
-    {
-      "number": 7,
-      "question": "¿Cómo se llaman los padres de Carlos Mariano?",
-      "answer": "Alicia y Mariano",
-      "": ""
-    },
-    {
-      "number": 8,
-      "question": "¿A que sindicato está afilidado Carlos Mariano?",
-      "answer": "CNT",
-      "": ""
-    },
-    {
-      "number": 9,
-      "question": "¿Que le olió Renato a Mariano?",
-      "answer": "Pies y Axilas",
-      "": ""
-    },
-    {
-      "number": 10,
-      "question": "¿Qué famosa receta culinaria realizó Carlos Mariano?",
-      "answer": "Macarrones congelados",
-      "": ""
-    },
-    {
-      "number": 11,
-      "question": "¿Qué actividad física realizaba Mariano de jóven en su pueblo?",
-      "answer": "Calistenia",
-      "": ""
-    },
-    {
-      "number": 12,
-      "question": "¿Dónde tuvo Mariano la conversación incómoda con Aisayan? 💀",
-      "answer": "En un banco debajo del balcón de Ganfo",
-      "": ""
-    },
-    {
-      "number": 13,
-      "question": "¿Donde trabajó Mariano anteriormente a SATEC?",
-      "answer": "KM de Pizza",
-      "": ""
-    },
-    {
-      "number": 14,
-      "question": "¿Con qué saga de videojuegos da mucho por culo el nene?",
-      "answer": "Kingdom Hearts",
-      "": ""
-    },
-    {
-      "number": 15,
-      "question": "¿En qué condiciones pasó Mariano la pandemia de 2020?",
-      "answer": "Solito (y calvo), en su piso",
-      "": ""
-    },
-    {
-      "number": 16,
-      "question": "¿Qué instrumento tocaba Mariano?",
-      "answer": "Flauta travesera",
-      "": ""
-    },
-    {
-      "number": 17,
-      "question": "¿Cómo se llamaba el primer videojuego de Mariano?",
-      "answer": "Inside the Skull",
-      "": ""
-    },
-    {
-      "number": 18,
-      "question": "¿Qué terrible operación-mutilación tuvo Mariano en 2020?",
-      "answer": "Circuncisión",
-      "": ""
-    },
-    {
-      "number": 19,
-      "question": "¿Dónde tiene Mariano una reconocible marca de nacimiento?",
-      "answer": "Cogote",
-      "": ""
-    },
-    {
-      "number": 20,
-      "question": "¿Cuál es el main de League of Legends de Mariano?",
-      "answer": "Bardo",
-      "": ""
-    },
-    {
-      "number": 21,
-      "question": "¿Es cierto que Mariano es el mejor y el más guapo?",
-      "answer": "Verdadero",
-      "": ""
-    },
-    {
-      "number": 22,
-      "question": "¿A qué se dedica la hermana de Carlos Mariano?",
-      "answer": "Veterinaria",
-      "": ""
-    },
-    {
-      "number": 23,
-      "question": "¿Con quién se pegó Mariano en el Pokido?",
-      "answer": "Javijones",
-      "": ""
-    },
-    {
-      "number": 24,
-      "question": "A lo largo de la carrera, ¿en cuántos pisos ha vivido Mariano?",
-      "answer": 5,
-      "": ""
-    },
-    {
-      "number": 25,
-      "question": "¿Qué juego parecido al Subway Surfers tiene Mariano?",
-      "answer": "MariRun",
-      "": ""
-    },
-    {
-      "number": 26,
-      "question": "¿Quién es hasta 2024, el compañero de piso más longevo de Mariano?",
-      "answer": "Gonzalo",
-      "": ""
-    },
-    {
-      "number": 27,
-      "question": "¿Cómo se llamó el evento de Nochebuena que compartieron Mariano y Nacho?",
-      "answer": "Nachobuena",
-      "": ""
-    },
-    {
-      "number": 28,
-      "question": "¿Cómo se llama la primera persona con la que se lió Mariano?",
-      "answer": "Cristina",
-      "": ""
-    },
-    {
-      "number": 29,
-      "question": "¿Qué deporte practica Mariano en una foto suya que sale de chico?",
-      "answer": "Kárate",
-      "": ""
-    },
-    {
-      "number": 30,
-      "question": "¿Como se llamaba el utensilio para liar que tenía Mariano?",
-      "answer": "Rulitas",
-      "": ""
-    },
-    {
-      "number": 31,
-      "question": "¿Cuál es el número del timbre del piso de Mariano?",
-      "answer": 210,
-      "": ""
-    },
-    {
-      "number": 32,
-      "question": "¿En que empresa fue becario Mariano aproximadamente 10 años?",
-      "answer": "SATEC",
-      "": ""
-    },
-    {
-      "number": 33,
-      "question": "¿De que equipo de fútbol era aficionado Mariano en su juventud?",
-      "answer": "Atlético de Madrid",
-      "": ""
-    },
-    {
-      "number": 34,
-      "question": "¿Como se llama el peluquero de Mariano?",
-      "answer": "Jamal",
-      "": ""
-    },
-    {
-      "number": 35,
-      "question": "¿Que condición tenían todos los clientes de una mesa que Mariano atendió en el KM de Pizza una vez?",
-      "answer": "Sordera",
-      "": ""
-    },
-    {
-      "number": 36,
-      "question": "¿Con quiénes, inicialmente, iba a vivir Mariano en tercero de carrera?",
-      "answer": "Nacho y Javijones",
-      "": ""
-    },
-    {
-      "number": 37,
-      "question": "¿Qué nacionalidad es la más odiada por Mariano?",
-      "answer": "Argentina",
-      "": ""
-    },
-    {
-      "number": 38,
-      "question": "Completa la frase de Mariano: \"Que nos comen los ____ .",
-      "answer": "chinos",
-      "": ""
-    },
-    {
-      "number": 39,
-      "question": "¿Cómo se llama el jarrón de arcilla en el cual Mariano almacenó cenizas durante más de 3 años?",
-      "answer": "La abuela (de Rafa)",
-      "": ""
-    },
-    {
-      "number": 40,
-      "question": "¿Qué dia es el cumpleaños de Mariano?",
-      "answer": "5 de diciembre",
-      "": ""
-    },
-    {
-      "number": 41,
-      "question": "¿Qué situación laboral espera con ansias Mariano?",
-      "answer": "La jubilación",
-      "": ""
-    },
-    {
-      "number": 42,
-      "question": "¿Cómo es, también, conocido Carlos Mariano?",
-      "answer": "El Joker",
-      "": ""
-    },
-    {
-      "number": 43,
-      "question": "¿En que empresa estaba Carlos cuando estalló la PLANDEMIA 2020?",
-      "answer": "VIPS",
-      "": ""
-    },
-    {
-      "number": 44,
-      "question": "¿Quienes salvaron de la locura a Mariano durante el confinamiento, saltándose así las restricciones?",
-      "answer": "Sergio y Miguel",
-      "": ""
-    },
-    {
-      "number": 45,
-      "question": "¿Cuál es el sabor de helado favorito de Mariano?",
-      "answer": "No le gustan los helados",
-      "": ""
-    },
-    {
-      "number": 46,
-      "question": "¿Con quién quedaba Mariano para ver OT 2018?",
-      "answer": "DVD",
-      "": ""
-    },
-    {
-      "number": 47,
-      "question": "¿Que colecciona Carlos de sus amigos?",
-      "answer": "Fotos de DNI",
-      "": ""
-    },
-    {
-      "number": 48,
-      "question": "¿En que ciudad europea perdió Mariano su móvil?",
-      "answer": "Milán",
-      "": ""
-    },
-    {
-      "number": 49,
-      "question": "",
-      "answer": "",
-      "": ""
-    },
-    {
-      "number": 50,
-      "question": "¿Qué es lo único que puede hacer desmayar a Mariano?",
-      "answer": "Su propia sangre",
-      "": ""
-    }
-  ]
+  {
+    "number": 1,
+    "question": "¿Qué país fue el ganador de la primera edición de Eurovisión en 1956?",
+    "answer": "Suiza, con Lys Assia interpretando \"Refrain"
+  },
+  {
+    "number": 2,
+    "question": "¿Cuántas canciones presentaba cada país en los primeros años de Eurovisión?",
+    "answer": "Dos"
+  },
+  {
+    "number": 3,
+    "question": "¿Cuál fue la primera representante española en Eurovisión en 1961?",
+    "answer": "Conchita Bautista"
+  },
+  {
+    "number": 4,
+    "question": "Hasta 2024, ¿Cuál ha sido el país que más veces ha ganado Eurovisión?",
+    "answer": "Irlanda y Suecia, con siete victorias cada uno."
+  },
+  {
+    "number": 5,
+    "question": "¿Cuántos países han sido ganadores siendo anfitriones hasta 2024?",
+    "answer": "Cinco"
+  },
+  {
+    "number": 6,
+    "question": "Hasta 2024, ¿qué país tiene el récord de la mayor cantidad de veces obteniendo \"cero puntos\" en Eurovisión?",
+    "answer": "Noruega"
+  },
+  {
+    "number": 7,
+    "question": "¿Cuánto tiempo tiene que durar como máximo una canción en Eurovisión?",
+    "answer": "Tres minutos"
+  },
+  {
+    "number": 8,
+    "question": "¿Qué país falsificó la edad de su concursante en 1986 que acabó ganando Eurovisión?",
+    "answer": "Bélgica"
+  },
+  {
+    "number": 9,
+    "question": "¿En qué mes se celebra siempre Eurovisión?",
+    "answer": "Mayo"
+  },
+  {
+    "number": 10,
+    "question": "¿Qué países organizan Eurovisión (el Big Five)?",
+    "answer": "España, Alemania, Italia, Francia y Reino Unido"
+  },
+  {
+    "number": 11,
+    "question": "¿Están los animales permitidos en el escenario en Eurovisión?",
+    "answer": "No."
+  },
+  {
+    "number": 12,
+    "question": "¿Cómo se llama el equivalente al BenidormFest de Suecia?",
+    "answer": "Melodifestivalen"
+  },
+  {
+    "number": 13,
+    "question": "¿Qué país llevó al concursante más anciano de la historia de Eurovisión en 2013?",
+    "answer": "Suiza, con Emil Ramsauer de la banda Tasaka."
+  },
+  {
+    "number": 14,
+    "question": "¿Qué país se llevó el récord de puntos en una gran final, con 758 puntos?",
+    "answer": "Portugal en la edición de 2017."
+  },
+  {
+    "number": 15,
+    "question": "¿Qué país, hasta 2024, no ha obtenido nunca una victoria?",
+    "answer": "Chipre."
+  },
+  {
+    "number": 16,
+    "question": "¿Cuántas personas está permitido por normativa que haya en el escenario simultáneamente en Eurovisión?",
+    "answer": "Seis, incluidos cantantes y cuerpo de baile."
+  },
+  {
+    "number": 17,
+    "question": "¿Qué país decidió no participar en Eurovisión en 1969 para boicotear a España?",
+    "answer": "Austria, dado que España estaba gobernada por Franco."
+  },
+  {
+    "number": 18,
+    "question": "¿Cómo se llama el festival que decide el representante de España en Eurovisión?",
+    "answer": "Benidorm Fest"
+  },
+  {
+    "number": 19,
+    "question": "¿Qué canción de Eurovisión ha sido más versionada por estrellas como David Bowie?",
+    "answer": "Nel Blu Dipinto Di Blu, también conocida como Volare."
+  },
+  {
+    "number": 20,
+    "question": "¿Cuántos 'La' contiene la canción 'La La La' de Masiel, ganadora de la edición de 1968 de Eurovisión?",
+    "answer": "138 Las."
+  },
+  {
+    "number": 21,
+    "question": "¿En que año gano el famoso grupo de metal \"Lordi\" Eurovisión?",
+    "answer": 2006
+  },
+  {
+    "number": 22,
+    "question": "¿A qué grupo pertenece el logo que tiene Käärijä (Cha Cha Cha) tatuado en el pecho?",
+    "answer": "Rammstein"
+  },
+  {
+    "number": 23,
+    "question": "¿Quién es considerada la verdadera ganadora de Eurovisión 2022?",
+    "answer": "Chanel"
+  },
+  {
+    "number": 24,
+    "question": "¿En qué año se coronó Alexander Rybak como ganador de Eurovisión con Fairytale?",
+    "answer": 2009
+  },
+  {
+    "number": 25,
+    "question": "¿Con qué canción se presentó Edurne a Eurovisión 2015?",
+    "answer": "Amanecer"
+  },
+  {
+    "number": 26,
+    "question": "¿De qué artista de Eurovisión posee Mariano una carta dedicada por haber salido en un vídeo de la artista?",
+    "answer": "Barei"
+  },
+  {
+    "number": 27,
+    "question": "¿A qué artista español y en qué año le boicoteó la actuación el conocido como Jimmy Jump?",
+    "answer": "Daniel Diges - 2010"
+  },
+  {
+    "number": 28,
+    "question": "¿Cómo se llama el grupo italiano ganador de Eurovisión 2021, cuya victoria catapultó al grupo a la fama?",
+    "answer": "Maneskin"
+  },
+  {
+    "number": 29,
+    "question": "¿En qué polémica se vio comprometido el vocalista de Maneskin tras su victoria en Eurovisión 2021?",
+    "answer": "Se le acusó de esnifar cocaína en televisión tras salir al escenario."
+  },
+  {
+    "number": 30,
+    "question": "¿Por qué fue descalificado Klein representante de Paises Bajos en Eurovisión 2024?",
+    "answer": "Comportamiento violento con una trabajadora"
+  },
+  {
+    "number": 31,
+    "question": "¿En qué año se presentó y ganó Eurovisión Céline Dion?",
+    "answer": 1988
+  },
+  {
+    "number": 32,
+    "question": "¿A qué país representaba Céline Dion cuando se presentó en Eurovisión?",
+    "answer": "Suiza"
+  },
+  {
+    "number": 33,
+    "question": "¿En qué puesto quedó Pastora Soler cuando representó a España en el certámen?",
+    "answer": ""
+  },
+  {
+    "number": 34,
+    "question": "¿A qué país representaba Dana International, primera concursante transgénero de la historia del concurso?",
+    "answer": "Israel"
+  },
+  {
+    "number": 35,
+    "question": "¿Qué canción interpretó ABBA cuando compitieron en el concurso?",
+    "answer": "Waterloo"
+  },
+  {
+    "number": 36,
+    "question": "¿Qué puesto obtuvo ABBA cuando se presentaron?",
+    "answer": "1º"
+  },
+  {
+    "number": 37,
+    "question": "¿A qué pais representó el rapero estadounidense Flo Rida cuando participó en Eurovisión?",
+    "answer": "San Marino"
+  },
+  {
+    "number": 38,
+    "question": "¿En qué año participó el rapero estadounidense Flo Rida en Eurovisión?",
+    "answer": 2021
+  },
+  {
+    "number": 39,
+    "question": "¿Cuál fue la mayor polémica de la actuación musical de Madonna cuando fue invitada al evento?",
+    "answer": "Usar banderas de Israel y Palestina"
+  },
+  {
+    "number": 40,
+    "question": "¿En qué año fue el \"Chanelazo\"?",
+    "answer": 2022
+  },
+  {
+    "number": 41,
+    "question": "¿Qué país ganó cuando se presentó Chanel a Eurovisión?",
+    "answer": "Ucrania"
+  },
+  {
+    "number": 42,
+    "question": "¿Qué ciudad del Reino Unido albergó el certámen en 2023?",
+    "answer": "Liverpool"
+  },
+  {
+    "number": 43,
+    "question": "¿Cuántos integrantes mujer tiene el grupo de rock Måneskin?",
+    "answer": 1
+  },
+  {
+    "number": 44,
+    "question": "¿En qué año fue el Chiquilicuatre representando a España?",
+    "answer": 2008
+  },
+  {
+    "number": 45,
+    "question": "¿Cuántos festivales han tenido lugar en España?",
+    "answer": 2
+  },
+  {
+    "number": 46,
+    "question": "¿En qué ciudad española se ha organizado Eurovisión?",
+    "answer": "Madrid"
+  },
+  {
+    "number": 47,
+    "question": "¿Qué cantante apellidado Iglesias ha ido al concurso?",
+    "answer": "Julio Iglesias"
+  },
+  {
+    "number": 48,
+    "question": "¿Qué comunidad autónoma hasta 2024 ha tenido más representantes en Eurovisión?",
+    "answer": "Comunidad de Madrid"
+  },
+  {
+    "number": 49,
+    "question": "¿Cuántas veces se ha celebrado Eurovisión? (hasta 2024)",
+    "answer": "66 veces"
+  },
+  {
+    "number": 50,
+    "question": "¿Por qué Australia puede participar a veces en Eurovisión?",
+    "answer": "Es un miembro asociado de la Union Europea de Radiodifusión"
+  }
+]

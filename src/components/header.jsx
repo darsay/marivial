@@ -1,6 +1,6 @@
 function Header() {
     return (
-        <img src="./src/assets/header.png"/>
+        <img src="/header.png"/>
     )
 }
 

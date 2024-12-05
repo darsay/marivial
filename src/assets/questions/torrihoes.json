@@ -1,302 +1,452 @@
 [
-    {
-      "number": 1,
-      "question": "¿Que costumbre extraña tiene Mariano cuando va a hacer de vientre?",
-      "answer": "Abrir el grifo",
-      "": ""
-    },
-    {
-      "number": 2,
-      "question": "¿Qué sabor de Monster es el favorito de Mariano?",
-      "answer": "Mango Loco",
-      "": ""
-    },
-    {
-      "number": 3,
-      "question": "¿Qué enfermedad respiratoria ha tenido Mariano desde la infancia?",
-      "answer": "Asma",
-      "": ""
-    },
-    {
-      "number": 4,
-      "question": "¿En qué puesto de mejor alumno de CLM quedó Mariano?",
-      "answer": "El sexto",
-      "": ""
-    },
-    {
-      "number": 5,
-      "question": "¿Cuántos novios tiene Mariano?",
-      "answer": 1,
-      "": ""
-    },
-    {
-      "number": 6,
-      "question": "¿Quién besó muy heterosexualmente a Mariano EN VIDEO?",
-      "answer": "Nacho",
-      "": ""
-    },
-    {
-      "number": 7,
-      "question": "¿Cómo se llaman los padres de Carlos Mariano?",
-      "answer": "Alicia y Mariano",
-      "": ""
-    },
-    {
-      "number": 8,
-      "question": "¿A que sindicato está afilidado Carlos Mariano?",
-      "answer": "CNT",
-      "": ""
-    },
-    {
-      "number": 9,
-      "question": "¿Que le olió Renato a Mariano?",
-      "answer": "Pies y Axilas",
-      "": ""
-    },
-    {
-      "number": 10,
-      "question": "¿Qué famosa receta culinaria realizó Carlos Mariano?",
-      "answer": "Macarrones congelados",
-      "": ""
-    },
-    {
-      "number": 11,
-      "question": "¿Qué actividad física realizaba Mariano de jóven en su pueblo?",
-      "answer": "Calistenia",
-      "": ""
-    },
-    {
-      "number": 12,
-      "question": "¿Dónde tuvo Mariano la conversación incómoda con Aisayan? 💀",
-      "answer": "En un banco debajo del balcón de Ganfo",
-      "": ""
-    },
-    {
-      "number": 13,
-      "question": "¿Donde trabajó Mariano anteriormente a SATEC?",
-      "answer": "KM de Pizza",
-      "": ""
-    },
-    {
-      "number": 14,
-      "question": "¿Con qué saga de videojuegos da mucho por culo el nene?",
-      "answer": "Kingdom Hearts",
-      "": ""
-    },
-    {
-      "number": 15,
-      "question": "¿En qué condiciones pasó Mariano la pandemia de 2020?",
-      "answer": "Solito (y calvo), en su piso",
-      "": ""
-    },
-    {
-      "number": 16,
-      "question": "¿Qué instrumento tocaba Mariano?",
-      "answer": "Flauta travesera",
-      "": ""
-    },
-    {
-      "number": 17,
-      "question": "¿Cómo se llamaba el primer videojuego de Mariano?",
-      "answer": "Inside the Skull",
-      "": ""
-    },
-    {
-      "number": 18,
-      "question": "¿Qué terrible operación-mutilación tuvo Mariano en 2020?",
-      "answer": "Circuncisión",
-      "": ""
-    },
-    {
-      "number": 19,
-      "question": "¿Dónde tiene Mariano una reconocible marca de nacimiento?",
-      "answer": "Cogote",
-      "": ""
-    },
-    {
-      "number": 20,
-      "question": "¿Cuál es el main de League of Legends de Mariano?",
-      "answer": "Bardo",
-      "": ""
-    },
-    {
-      "number": 21,
-      "question": "¿Es cierto que Mariano es el mejor y el más guapo?",
-      "answer": "Verdadero",
-      "": ""
-    },
-    {
-      "number": 22,
-      "question": "¿A qué se dedica la hermana de Carlos Mariano?",
-      "answer": "Veterinaria",
-      "": ""
-    },
-    {
-      "number": 23,
-      "question": "¿Con quién se pegó Mariano en el Pokido?",
-      "answer": "Javijones",
-      "": ""
-    },
-    {
-      "number": 24,
-      "question": "A lo largo de la carrera, ¿en cuántos pisos ha vivido Mariano?",
-      "answer": 5,
-      "": ""
-    },
-    {
-      "number": 25,
-      "question": "¿Qué juego parecido al Subway Surfers tiene Mariano?",
-      "answer": "MariRun",
-      "": ""
-    },
-    {
-      "number": 26,
-      "question": "¿Quién es hasta 2024, el compañero de piso más longevo de Mariano?",
-      "answer": "Gonzalo",
-      "": ""
-    },
-    {
-      "number": 27,
-      "question": "¿Cómo se llamó el evento de Nochebuena que compartieron Mariano y Nacho?",
-      "answer": "Nachobuena",
-      "": ""
-    },
-    {
-      "number": 28,
-      "question": "¿Cómo se llama la primera persona con la que se lió Mariano?",
-      "answer": "Cristina",
-      "": ""
-    },
-    {
-      "number": 29,
-      "question": "¿Qué deporte practica Mariano en una foto suya que sale de chico?",
-      "answer": "Kárate",
-      "": ""
-    },
-    {
-      "number": 30,
-      "question": "¿Como se llamaba el utensilio para liar que tenía Mariano?",
-      "answer": "Rulitas",
-      "": ""
-    },
-    {
-      "number": 31,
-      "question": "¿Cuál es el número del timbre del piso de Mariano?",
-      "answer": 210,
-      "": ""
-    },
-    {
-      "number": 32,
-      "question": "¿En que empresa fue becario Mariano aproximadamente 10 años?",
-      "answer": "SATEC",
-      "": ""
-    },
-    {
-      "number": 33,
-      "question": "¿De que equipo de fútbol era aficionado Mariano en su juventud?",
-      "answer": "Atlético de Madrid",
-      "": ""
-    },
-    {
-      "number": 34,
-      "question": "¿Como se llama el peluquero de Mariano?",
-      "answer": "Jamal",
-      "": ""
-    },
-    {
-      "number": 35,
-      "question": "¿Que condición tenían todos los clientes de una mesa que Mariano atendió en el KM de Pizza una vez?",
-      "answer": "Sordera",
-      "": ""
-    },
-    {
-      "number": 36,
-      "question": "¿Con quiénes, inicialmente, iba a vivir Mariano en tercero de carrera?",
-      "answer": "Nacho y Javijones",
-      "": ""
-    },
-    {
-      "number": 37,
-      "question": "¿Qué nacionalidad es la más odiada por Mariano?",
-      "answer": "Argentina",
-      "": ""
-    },
-    {
-      "number": 38,
-      "question": "Completa la frase de Mariano: \"Que nos comen los ____ .",
-      "answer": "chinos",
-      "": ""
-    },
-    {
-      "number": 39,
-      "question": "¿Cómo se llama el jarrón de arcilla en el cual Mariano almacenó cenizas durante más de 3 años?",
-      "answer": "La abuela (de Rafa)",
-      "": ""
-    },
-    {
-      "number": 40,
-      "question": "¿Qué dia es el cumpleaños de Mariano?",
-      "answer": "5 de diciembre",
-      "": ""
-    },
-    {
-      "number": 41,
-      "question": "¿Qué situación laboral espera con ansias Mariano?",
-      "answer": "La jubilación",
-      "": ""
-    },
-    {
-      "number": 42,
-      "question": "¿Cómo es, también, conocido Carlos Mariano?",
-      "answer": "El Joker",
-      "": ""
-    },
-    {
-      "number": 43,
-      "question": "¿En que empresa estaba Carlos cuando estalló la PLANDEMIA 2020?",
-      "answer": "VIPS",
-      "": ""
-    },
-    {
-      "number": 44,
-      "question": "¿Quienes salvaron de la locura a Mariano durante el confinamiento, saltándose así las restricciones?",
-      "answer": "Sergio y Miguel",
-      "": ""
-    },
-    {
-      "number": 45,
-      "question": "¿Cuál es el sabor de helado favorito de Mariano?",
-      "answer": "No le gustan los helados",
-      "": ""
-    },
-    {
-      "number": 46,
-      "question": "¿Con quién quedaba Mariano para ver OT 2018?",
-      "answer": "DVD",
-      "": ""
-    },
-    {
-      "number": 47,
-      "question": "¿Que colecciona Carlos de sus amigos?",
-      "answer": "Fotos de DNI",
-      "": ""
-    },
-    {
-      "number": 48,
-      "question": "¿En que ciudad europea perdió Mariano su móvil?",
-      "answer": "Milán",
-      "": ""
-    },
-    {
-      "number": 49,
-      "question": "",
-      "answer": "",
-      "": ""
-    },
-    {
-      "number": 50,
-      "question": "¿Qué es lo único que puede hacer desmayar a Mariano?",
-      "answer": "Su propia sangre",
-      "": ""
-    }
-  ]
+  {
+    "number": 1,
+    "question": "¿Cuáles son las iniciales del cartel que tiene la casa de Mariano?",
+    "answer": "CCM (Casa de Carlos Mariano)",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 2,
+    "question": "¿Dónde trabajó Mariano por primera vez en su pueblo?",
+    "answer": "Bazar \"HiperTorrijos",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 3,
+    "question": "¿Cómo se llama la amiga rumana de Mariano?",
+    "answer": "Alexia",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 4,
+    "question": "¿Cómo se llama la fiesta de finales de septiembre de Torrijos?",
+    "answer": "Sementera",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 5,
+    "question": "¿Que famosa discoteca tecno se encuentra en los alredores de Torrijos?",
+    "answer": "Radical (actualmente Music Park)",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 6,
+    "question": "¿Cuántos habitantes tiene Torrijos?",
+    "answer": "13k aprox",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 7,
+    "question": "¿Qué amigo de Mariano es dueño de un quad?",
+    "answer": "Cañero",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 8,
+    "question": "¿Cómo se llama el pueblo vecino de Torrijos?",
+    "answer": "Gerindote",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 9,
+    "question": "¿Qué cuadro tiene Mariano en su habitación de Torrijos?",
+    "answer": "Uno de los Simpsons",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 10,
+    "question": "¿Qué personaje de Torrijos es versión \"Evil\" de una persona de Sexo Entiendelo?",
+    "answer": "Evil Kay",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 11,
+    "question": "¿Se ha desarrollado la escritura en Torrijos?",
+    "answer": "Sorprendentemente, verdadero",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 12,
+    "question": "¿Que cosa digna le falta a Torrijos?",
+    "answer": "Un tren",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 13,
+    "question": "¿Cómo se llama el bar en la calle de Mariano que más frecuenta?",
+    "answer": "La Panza",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 14,
+    "question": "¿Que evento alberga Torrijos, clausurado por una gran noche de pirotecnia?",
+    "answer": "Fiesta Medieval",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 15,
+    "question": "¿A qué provincia pertenece Torrijos?",
+    "answer": "Toledo",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 16,
+    "question": "¿Qué pone en el grafitti que hay en el parque donde Mariano fuma con sus amigos?",
+    "answer": "Mostro Muere",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 17,
+    "question": "¿De qué partido es el alcalde de Torrijos en 2024?",
+    "answer": "PP",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 18,
+    "question": "¿Cuál es el nombre real de la cantante proveniente de Torrijos llamada Alena?",
+    "answer": "Alba",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 19,
+    "question": "¿Qué partido fundó el padre de Lulo en Torrijos?",
+    "answer": "Vox",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 20,
+    "question": "¿Qué amiga de Mariano está muy \"loca\"?",
+    "answer": "Carla",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 21,
+    "question": "¿En que piso vive Carlos en Torrijos?",
+    "answer": "7°",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 22,
+    "question": "¿Cómo se llama la marca de autobuses que te lleva de Móstoles a Torrijos?",
+    "answer": "Samar",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 23,
+    "question": "¿Cómo se llama la familia gitana dueña de una heladería en Torrijos?",
+    "answer": "Los Carrera",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 24,
+    "question": "¿En qué cumple Torrijeño se lesionó Nacho el brazo?",
+    "answer": "En el de Alexia.",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 25,
+    "question": "¿Como se llama el proveedor de uwus de Mariano, procedente de Torrijos?",
+    "answer": "Chicho",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 26,
+    "question": "¿Qué amigo Torrijeño de Mariano es tatuador?",
+    "answer": "Joel",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 27,
+    "question": "¿De que curioso tipo de carne es el famoso kebab de la fiesta medieval de Torrijos?",
+    "answer": "Cerdo",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 28,
+    "question": "¿Es legal casarse con un familiar en Torrijos?",
+    "answer": "FALSO",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 29,
+    "question": "¿El origen etimológico de \"Torrijos\" tiene algo que ver con el famoso plato de las Torrijas?",
+    "answer": "FALSO",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 30,
+    "question": "¿En qué liga de fútbol milita el C.D Torrijos en la temporada 24/25?",
+    "answer": "1° autonómica preferente",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 31,
+    "question": "¿Cómo se llama la amiga pelirroja de Mariano?",
+    "answer": "YaraYarita",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 32,
+    "question": "¿Qué puedes encontrar en la piscina climatizada cubierta de Torrijos?",
+    "answer": "La ameba «comecerebros»",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 33,
+    "question": "¿Cómo se llama la plaza principal de Torrijos?",
+    "answer": "Plaza España",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 34,
+    "question": "¿Qué plato principal se sirvió en el cumpleaños de Nacho celebrado en Torrijos?",
+    "answer": "Migas",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 35,
+    "question": "¿Qué despertaba a Mariano durante su infancia en Torrijos?",
+    "answer": "Un gallo",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 36,
+    "question": "¿Cómo se llama la estación de tren de Torrijos?",
+    "answer": "Torrijos",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 37,
+    "question": "¿Cuál es el gentelicio de Torrijos?",
+    "answer": "Torrijeño-a",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 38,
+    "question": "¿De que letra tiene forma la casa de Mariano en Torrijos?",
+    "answer": "De \"V",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 39,
+    "question": "¿Cual es el mejor pueblo de Castilla la Mancha?",
+    "answer": "Torrijos",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 40,
+    "question": "¿De qué figura histórica es la fortaleza de Torrijos?",
+    "answer": "Pedro, el cruel",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 41,
+    "question": "¿Qué profundas palabras grafiteó Mariano en el parque que frecuenta con sus amigos?",
+    "answer": "UwU",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 42,
+    "question": "¿Qué negocio de hostelería comenzó a partir de un conflicto entre mafias en Torrijos?",
+    "answer": "Una heladería",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 43,
+    "question": "¿Qué categoría de productos ilegales es especialmente comercializado en Torrijos?",
+    "answer": "Droga",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 44,
+    "question": "¿Que famoso postre comparte casi todo su nombre con Torrijos?",
+    "answer": "Torrija",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 45,
+    "question": "¿Como se llama la película que ha sido grabado en Torrijos?",
+    "answer": "4 hermanas brujas",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 46,
+    "question": "¿Como reza el dicho de Torrijos?",
+    "answer": "Según son los padres, así son los hijos",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 47,
+    "question": "¿Cuál es el nombre completo de la persona que invirtió en el origen de Torrijos?",
+    "answer": "Teresa Enríquez",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 48,
+    "question": "¿Con que municipio está hermanado Torrijos?",
+    "answer": "Aspe",
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 49,
+    "question": "¿Cuántas personas ilustres han nacido en Torrijos?",
+    "answer": 14,
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "number": 50,
+    "question": "¿Cuantos institutos hay en Torrijos?",
+    "answer": 2,
+    "": "",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  }
+]
